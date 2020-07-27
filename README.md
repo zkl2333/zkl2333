@@ -1,8 +1,6 @@
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=zkl2333&show_icons=true&icon_color=805AD5&text_color=718096&bg_color=ffffff&hide_title=true" />
 
-### Hi there 👋
-
-你好，很高兴见到你。
+### 你好，很高兴见到你👋
 
 我叫 Vincent，常用 ID:zkl2333
 
